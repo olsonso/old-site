@@ -1,4 +1,4 @@
-https://www.sonjaolson.co
+http://sonjaolson.co/
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Jekyll port of the Spectral theme by HTML5 UP.
