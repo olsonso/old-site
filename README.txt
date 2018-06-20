@@ -1,4 +1,4 @@
-[Sonjaolson.co](https://www.sonjaolson.co "Sonja Olson")
+https://www.sonjaolson.co
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A Jekyll port of the Spectral theme by HTML5 UP.
